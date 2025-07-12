@@ -1,5 +1,4 @@
 ## Hi I'm Roli
-🌱 I’m currently learning react and node js 
 GOOD TO GO 
 
 <!--
