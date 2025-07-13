@@ -1,5 +1,5 @@
 ## Hi I'm Roli
-GOOD TO GO 
+GOOD TO GO you got this
 
 <!--
 **Roli827/Roli827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
