@@ -1,6 +1,4 @@
 ''code with roli'
-GOOD TO GO you got this
-Let see how it works
 
 
 <!--
